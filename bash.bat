@@ -1,0 +1,1 @@
+docker run -it -w=/build -v %cd%:/build vowstar/esp8266 /bin/bash
